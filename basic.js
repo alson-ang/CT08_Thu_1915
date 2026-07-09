@@ -15,11 +15,9 @@ function setup() {
 
     if (age <= 9) {
         console.log("Lower Primary")
-    }
-    else if (age <= 12) {
+    } else if (age <= 12) {
         console.log("Upper Primary")
-    }
-    else {
+    } else {
         console.log("Secondary")
     }
 }
