@@ -4,3 +4,5 @@ Minecraft:
 3. When you win you beat the game, when you die, you lose your items.
 
 Geometry Dash:
+
+What are the objects? Main
