@@ -6,7 +6,10 @@ function setup() {
     let height = 5;
     let area = 0.5 * base * height;
     console.log("Area:", area);
-    text("asd", 100, 100);
+    
+    for (let i = 0; i < 10; i ++) {
+        
+    }
 }
 
 function draw() {
