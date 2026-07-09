@@ -1,6 +1,6 @@
 function setup() {
     new Canvas(800, 400)
-    background(220)
+    background(25)
     console.log("Hello!")
     let a = 1;
     let b = 2;
