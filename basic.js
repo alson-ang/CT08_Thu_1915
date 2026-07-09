@@ -41,7 +41,7 @@ function setup() {
 
     for (let item of groceries) {
         console.log(item)
-        text(item, 100)
+        text(item, 400, )
     }
 }
 
