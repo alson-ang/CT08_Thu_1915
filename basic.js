@@ -5,7 +5,7 @@ function setup() {
     let a = 1;
     let b = 2;
     let sum = a + b;
-    console.log(sum)
+    console.log("Sum of a and b:", sum)
 }
 
 function draw() {
