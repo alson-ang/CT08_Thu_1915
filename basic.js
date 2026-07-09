@@ -6,7 +6,7 @@ function setup() {
     let b = 2;
     let sum = a + b;
     console.log("Sum of a and b:", sum)
-    text()
+    text(sum, 0, 0)
 }
 
 function draw() {
