@@ -6,6 +6,7 @@ function setup() {
     let b = 2;
     let sum = a + b;
     console.log("Sum of a and b:", sum)
+    
     text("HELLO", 200, 2000)
 }
 
