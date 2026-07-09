@@ -27,6 +27,8 @@ function setup() {
         console.log(count);
         count++;
     }
+
+    let 
 }
 
 function draw() {
