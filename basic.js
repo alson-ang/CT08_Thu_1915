@@ -1,5 +1,5 @@
 function setup() {
-    new Canvas(800, 400)
+    new Canvas(800, 400);
     background(220);
     fill(0);
     let base = 10;
