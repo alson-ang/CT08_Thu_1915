@@ -3,3 +3,5 @@ Minecraft:
 2. WASD Movement, Left Click to Mine, Right Click to Place / Interact
 3. When you win you beat the game, when you die, you lose your items.
 
+Geometry Dash:
+1. 
