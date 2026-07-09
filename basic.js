@@ -14,7 +14,10 @@ function setup() {
     let age = 9
 
     if (age <= 9) {
-        
+        console.log("Lower Primary")
+    }
+    else if (age <= 9) {
+        console.log("Lower Primary")
     }
 }
 
