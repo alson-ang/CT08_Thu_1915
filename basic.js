@@ -1,6 +1,6 @@
 function setup() {
     new Canvas(800, 400)
-    console
+    console.log("Hello")
 }
 
 function draw() {
