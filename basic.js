@@ -39,8 +39,10 @@ function setup() {
 
     console.log(groceries)
 
+    y
     for (let item of groceries) {
         console.log(item)
+        
         text(item, 400, )
     }
 }
