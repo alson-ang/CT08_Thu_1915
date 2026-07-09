@@ -4,7 +4,8 @@ function setup() {
 
     let a = 1;
     let b = 2;
-    const pi = 3.1415;
+    let sum = a + b;
+    
 }
 
 function draw() {
