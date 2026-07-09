@@ -1,4 +1,4 @@
 Minecraft:
 1. To mine materials and craft items to defeat the Ender Dragon.
 2. WASD Movement, Left Click to Mine, Right Click to Place / Interact
-3. When you win
+3. When you win you beat the game, when you lose, you lose your items.
