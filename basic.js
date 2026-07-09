@@ -20,6 +20,8 @@ function setup() {
     } else {
         console.log("Secondary");
     }
+
+    while
 }
 
 function draw() {
