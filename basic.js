@@ -7,7 +7,7 @@ function setup() {
     
     for (let i = 2; i <= 20; i += 2) {
         console.log(i);
-        yPos = 100 + (i * 20)
+        yPos = 10 + (i * 10)
         text(i, 100, yPos)
     }
 }
