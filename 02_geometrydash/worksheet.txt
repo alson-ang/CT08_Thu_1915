@@ -9,4 +9,4 @@ What are the objects? Main Character, Spikes, Platforms
 What are the player's actions? Jump
 What is the goal? Make it to the end of the level
 What causes game over? Hitting the Spikes
-How is progress shown? 
+How is progress shown? Percentage of level completed
