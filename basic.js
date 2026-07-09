@@ -11,7 +11,7 @@ function setup() {
         text(i, 100, yPos)
     }
 
-    let age = 9
+    let age = 13
 
     if (age <= 9) {
         console.log("Lower Primary")
