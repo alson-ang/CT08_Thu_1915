@@ -7,3 +7,4 @@ Geometry Dash:
 
 What are the objects? Main Character, Spikes, Platforms
 What are the player's actions? Jump
+What 
