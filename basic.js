@@ -5,7 +5,7 @@ function setup() {
     fill("black");    // Text colour
     textSize(24);   // Text size
     
-    for (let i = 10; i > 0; ) {
+    for (let i = 2; i <= 20; i += 2) {
         console.log(i);
     }
 }
