@@ -42,7 +42,7 @@ function setup() {
     let yPos = 100;
     for (let item of groceries) {
         console.log(item);
-        text(item, 400, )
+        text(item, 400, yPos);
         yPos += 20;
     }
 }
