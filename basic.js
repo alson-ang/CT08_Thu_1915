@@ -35,7 +35,7 @@ function setup() {
 
     groceries.shift()
 
-    groceries.splice(1, )
+    groceries.splice(1, 1)
 
     console.log(groceries)
 }
