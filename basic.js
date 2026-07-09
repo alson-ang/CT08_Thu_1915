@@ -11,7 +11,11 @@ function setup() {
         text(i, 100, yPos)
     }
 
-    let age = 
+    let age = 9
+
+    if (age <= 9) {
+        
+    }
 }
 
 function draw() {
