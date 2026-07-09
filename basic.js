@@ -4,7 +4,7 @@ function setup() {
 
     let a = 1;
     let b = 2;
-    const pi
+    const pi = 3.1415;
 }
 
 function draw() {
