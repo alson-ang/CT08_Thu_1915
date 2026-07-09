@@ -40,7 +40,7 @@ function setup() {
     console.log(groceries)
 
     for (let item of groceries) {
-        
+        console.log(item)
     }
 }
 
