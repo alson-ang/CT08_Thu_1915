@@ -20,7 +20,7 @@ function setup() {
         console.log("Upper Primary")
     }
     else {
-        
+        console.log("Secondary")
     }
 }
 
