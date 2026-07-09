@@ -5,4 +5,4 @@ Minecraft:
 
 Geometry Dash:
 
-What are the objects? Main
+What are the objects? Main Character, Spikes, 
