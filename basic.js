@@ -42,8 +42,8 @@ function setup() {
     let yPos = 100;
     for (let item of groceries) {
         console.log(item);
-        
         text(item, 400, )
+        yPos += 20;
     }
 }
 
