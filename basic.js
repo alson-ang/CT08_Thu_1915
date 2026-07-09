@@ -33,15 +33,15 @@ function setup() {
     groceries.push("orange");
     groceries.push("butter");
 
-    groceries.shift()
+    groceries.shift();
 
-    groceries.splice(1, 1, "kaya")
+    groceries.splice(1, 1, "kaya");
 
-    console.log(groceries)
+    console.log(groceries);
 
-    y
+    let yPos = 100;
     for (let item of groceries) {
-        console.log(item)
+        console.log(item);
         
         text(item, 400, )
     }
