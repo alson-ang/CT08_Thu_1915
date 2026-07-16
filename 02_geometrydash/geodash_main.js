@@ -8,7 +8,8 @@ let tileMap1;   // Tile map for level design
 let spike;  // Image for spike sprite
 
 // world building groups
-
+let ground;
+let 
 
 // image sprites
 
