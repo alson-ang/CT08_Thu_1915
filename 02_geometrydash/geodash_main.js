@@ -38,7 +38,7 @@ function setup() {
 }
 
 function draw() {
-  clear();  // Erase
+  clear();  // Erase the previous frame before drawing the next
 }
 
 
