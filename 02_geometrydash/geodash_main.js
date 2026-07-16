@@ -4,7 +4,7 @@ let cube;   // Image for player sprite
 let bg;     // Background image
 
 // game variables
-
+let tileMap1
 
 // world building groups
 
