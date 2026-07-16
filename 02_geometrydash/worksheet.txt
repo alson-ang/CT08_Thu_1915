@@ -35,3 +35,4 @@ For each phase:
 3. Auto-run and Jump
 
 
+4. Obstacles, Orbs and Reset
