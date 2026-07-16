@@ -38,8 +38,8 @@ For each phase:
  - Player jumps on click / spacebar
 
 4. Obstacles, Orbs and Reset
- - Adding more walls and spikes
- 
+ - Adding more walls, spikes and orbs to the map
+ - 
 
 5. Game Start Screen and Level Clear
 
