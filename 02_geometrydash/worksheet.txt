@@ -19,3 +19,10 @@ What causes game over?
 
 How is progress shown? 
  - Percentage of level completed
+
+
+
+For each phase:
+• Describe what it will look like (e.g. “Player moves from right to left”)
+• The Gameplay mechanics (e.g. “Press space to jump”)
+• Any constraints that we need to add in. (e.g. How many times the player can jump)
