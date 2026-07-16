@@ -26,4 +26,7 @@ For each phase:
 • The Gameplay mechanics (e.g. “Press space to jump”)
 • Any constraints that we need to add in. (e.g. How many times the player can jump)
 
-1. Game Setup, 
+1. Game Setup, Load Assets, Create player
+
+
+2. 
