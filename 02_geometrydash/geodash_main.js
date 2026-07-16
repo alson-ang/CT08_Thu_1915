@@ -20,6 +20,7 @@ let bg;     // Background image
 
 function preload() {
     cube = loadImage("assets/cube.png");
+    
 }
 
 function setup() {
