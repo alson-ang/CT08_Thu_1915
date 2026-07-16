@@ -48,4 +48,4 @@ For each phase:
 6. Visual and Sound Effects
  - Background music
  - Death sound effect
- 
+ - Movement particle effects
