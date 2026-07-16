@@ -28,7 +28,7 @@ function setup() {
   world.gravity.y = 32;
 
   // Create player sprite
-  startCoordinate = []; // start_coordinate - snake case ; 
+  startCoordinate = []; // start_coordinate - snake case ; oneWord - camelCast
   player = new Sprite(50, height, 50 ,50);  // (x, y, width, height)
   player.img = cube;
   player.friction = 0;
