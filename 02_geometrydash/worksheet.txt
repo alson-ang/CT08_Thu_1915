@@ -30,9 +30,8 @@ For each phase:
  - Create canvas
  - Create player variable and load image
 
-
 2. Build Level and Tile Maps
-
+ - 
 
 3. Auto-run and Jump
 
