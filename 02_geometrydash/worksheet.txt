@@ -32,4 +32,6 @@ For each phase:
 2. Build Level and Tile Maps
 
 
-3. 
+3. Auto-run and Jump
+
+
