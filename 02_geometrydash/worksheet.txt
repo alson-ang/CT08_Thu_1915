@@ -27,7 +27,7 @@ For each phase:
 • Any constraints that we need to add in. (e.g. How many times the player can jump)
 
 1. Game Setup, Load Assets, Create Player
-
+ - 
 
 2. Build Level and Tile Maps
 
