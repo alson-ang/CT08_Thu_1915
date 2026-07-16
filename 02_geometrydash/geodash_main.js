@@ -42,7 +42,8 @@ function setup() {
   player.bounciness = 0;
   player.collider = "none";
 
-  // Ground
+  // Ground sprites group
+  
 }
 
 function draw() {
