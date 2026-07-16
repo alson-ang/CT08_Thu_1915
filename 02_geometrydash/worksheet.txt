@@ -43,8 +43,7 @@ For each phase:
 
 5. Game Start Screen and Level Clear
  - Start and end menu
- - Add a finish line
-
+ - Add a finish line to end the level
 
 6. Visual and Sound Effects
 
