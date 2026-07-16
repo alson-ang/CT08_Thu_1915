@@ -25,7 +25,6 @@ function preload() {
 
 function setup() {
   new Canvas(700, 600);
-  background(250);
   world.gravity.y = 32;
 }
 
