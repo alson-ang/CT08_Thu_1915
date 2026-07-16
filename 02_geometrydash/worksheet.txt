@@ -29,4 +29,7 @@ For each phase:
 1. Game Setup, Load Assets, Create player
 
 
-2. 
+2. Build Level and Tile Maps
+
+
+3. 
