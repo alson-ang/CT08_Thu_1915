@@ -28,6 +28,7 @@ function setup() {
   world.gravity.y = 32;
 
   // Create player sprite
+  startC
   player = new Sprite(50, height, 50 ,50);  // (x, y, width, height)
   player.img = cube;
   player.friction = 0;
