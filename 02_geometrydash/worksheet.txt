@@ -38,3 +38,6 @@ For each phase:
 4. Obstacles, Orbs and Reset
 
 
+5. Game Start Screen and Level Clear
+
+
