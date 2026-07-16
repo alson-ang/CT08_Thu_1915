@@ -37,7 +37,7 @@ function setup() {
   // Create player sprite
   startCoordinate = [TILE_SIZE, height - TILE_SIZE / 2];
 
-  player = new Sprite(startCoordinate[0], startCoordinate[1], 50 ,50);  // (x, y, width, height)
+  player = new Sprite(startCoordinate[0], startCoordinate[1], TILE_SIZE ,TILE_SIZE);  // (x, y, width, height)
   player.img = cube; // Load sprite image
   player.friction = 0;
   player.bounciness = 0;
