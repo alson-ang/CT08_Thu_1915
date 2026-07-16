@@ -38,7 +38,7 @@ For each phase:
  - Player jumps on click / spacebar
 
 4. Obstacles, Orbs and Reset
-
+ - 
 
 5. Game Start Screen and Level Clear
 
