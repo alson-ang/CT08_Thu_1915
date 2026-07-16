@@ -41,3 +41,5 @@ For each phase:
 5. Game Start Screen and Level Clear
 
 
+6. Visual and Sound Effects
+
