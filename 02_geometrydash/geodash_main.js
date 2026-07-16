@@ -28,11 +28,11 @@ function setup() {
   world.gravity.y = 32;
 
   // Create player sprite
-  player = new Sprite(50, 50, 50 ,50);  // (x, y, width, height)
+  player = new Sprite(50, height, 50 ,50);  // (x, y, width, height)
   player.img = cube;
   player.friction = 0;
   player.bounciness = 0;
-  
+
 }
 
 function draw() {
