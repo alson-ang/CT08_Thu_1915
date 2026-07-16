@@ -9,6 +9,7 @@ let spike;  // Image for spike sprite
 
 // world building groups
 let ground;
+let spikes;
 let 
 
 // image sprites
