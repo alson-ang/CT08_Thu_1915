@@ -28,13 +28,13 @@ function setup() {
   world.gravity.y = 32;
 
   // Create player sprite
-  startCoordinate = [50, height - 25];
-  
+  startCoordinate = [50, 0];
+
   player = new Sprite(startCoordinate[0], startCoordinate[1], 50 ,50);  // (x, y, width, height)
   player.img = cube;
   player.friction = 0;
   player.bounciness = 0;
-  player.collider = "none";
+  //player.collider = "none";
 }
 
 function draw() {
