@@ -38,7 +38,7 @@ function setup() {
 }
 
 function draw() {
-  
+  clear()
 }
 
 
