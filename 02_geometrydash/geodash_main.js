@@ -4,7 +4,7 @@ let cube;   // Image for player sprite
 let bg;     // Background image
 
 // game variables
-let tileMap1;   // T
+let tileMap1;   // Tile map for level design
 let spike;  // Image for spike sprite
 
 // world building groups
