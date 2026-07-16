@@ -39,7 +39,7 @@ For each phase:
 
 4. Obstacles, Orbs and Reset
  - Adding more walls, spikes and orbs to the map
- - When player co
+ - When player collides with wall or spike, restart the game
 
 5. Game Start Screen and Level Clear
 
