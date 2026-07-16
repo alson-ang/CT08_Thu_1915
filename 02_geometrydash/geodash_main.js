@@ -43,7 +43,7 @@ function setup() {
   player.collider = "none";
 
   // Ground sprites group
-  
+  ground = new Group
 }
 
 function draw() {
