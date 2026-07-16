@@ -29,6 +29,7 @@ function setup() {
 
   // Create player sprite
   player = new Sprite(50, 50, 50 ,50);  // (x, y, width, height)
+  player.img
 }
 
 function draw() {
