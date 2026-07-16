@@ -46,7 +46,8 @@ function setup() {
   // Ground sprites group
   ground = new Group();
   ground.tile = "g";    // "g" represents ground in tile map
-  ground.w = TILE_
+  ground.w = TILE_SIZE;
+  ground.h = TILE_SIZE;
 }
 
 function draw() {
