@@ -35,7 +35,7 @@ function setup() {
   world.gravity.y = 32;
 
   // Create player sprite
-  startCoordinate = [TILE_SIZE, height - 25];
+  startCoordinate = [TILE_SIZE, height - TILE_SIZE / 2];
 
   player = new Sprite(startCoordinate[0], startCoordinate[1], 50 ,50);  // (x, y, width, height)
   player.img = cube; // Load sprite image
