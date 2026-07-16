@@ -1,7 +1,7 @@
 // player box
 let box;    // Player sprite
 let cube;   // Image for player sprite
-let bg;
+let bg;     // Background
 
 // game variables
 
