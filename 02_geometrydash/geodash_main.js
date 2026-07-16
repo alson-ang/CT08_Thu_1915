@@ -25,7 +25,7 @@ let finishLine;
 function preload() {
     cube = loadImage("assets/cube.png");
     bg = loadImage("assets/geobg.png");
-    tileMap1 = loadStrings("stages/tileMap1")
+    tileMap1 = loadStrings("stages/tiles1.txt");
 }
 
 function setup() {
