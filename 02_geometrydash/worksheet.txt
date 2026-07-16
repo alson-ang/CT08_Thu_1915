@@ -34,7 +34,7 @@ For each phase:
  - Create and load tile map
 
 3. Auto-run and Jump
- - Player 
+ - Player is always moving right
 
 4. Obstacles, Orbs and Reset
 
