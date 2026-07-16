@@ -1,5 +1,5 @@
 // player box
-let box;    // Player sprite
+let player;    // Player sprite
 let cube;   // Image for player sprite
 let bg;     // Background image
 
@@ -28,7 +28,7 @@ function setup() {
   world.gravity.y = 32;
 
   // Create player sprite
-  
+
 }
 
 function draw() {
