@@ -39,7 +39,7 @@ function setup() {
 
 function draw() {
   clear();  // Erase the previous frame before drawing the next
-  image()
+  image(bg, 0, 0, )
 }
 
 
