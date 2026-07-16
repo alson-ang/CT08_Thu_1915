@@ -35,6 +35,7 @@ For each phase:
 
 3. Auto-run and Jump
  - Player is always moving right
+ - 
 
 4. Obstacles, Orbs and Reset
 
