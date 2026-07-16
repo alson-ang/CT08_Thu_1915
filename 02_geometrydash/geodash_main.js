@@ -4,7 +4,7 @@ let cube;   // Image for player sprite
 let bg;     // Background image
 
 // game variables
-const TILE_SIZE;    // 
+const TILE_SIZE = 50;
 let tileMap1;   // Tile map for level design
 let spike;  // Image for spike sprite
 
