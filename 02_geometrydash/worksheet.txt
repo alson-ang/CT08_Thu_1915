@@ -50,3 +50,4 @@ For each phase:
  - Death sound effect
  - Movement particle effects
  - Death particle effects
+ - Spawn particle effect
