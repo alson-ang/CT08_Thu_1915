@@ -39,6 +39,7 @@ For each phase:
 
 4. Obstacles, Orbs and Reset
  - Adding more walls and spikes
+ 
 
 5. Game Start Screen and Level Clear
 
