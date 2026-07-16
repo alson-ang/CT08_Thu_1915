@@ -29,7 +29,7 @@ function setup() {
 
   // Create player sprite
   startCoordinate = [50, height];
-  player = new Sprite(50, height, 50 ,50);  // (x, y, width, height)
+  player = new Sprite(50, height - 25, 50 ,50);  // (x, y, width, height)
   player.img = cube;
   player.friction = 0;
   player.bounciness = 0;
