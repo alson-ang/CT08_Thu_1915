@@ -110,5 +110,8 @@ function draw() {
     playerJump = 0;
   }
 
-  // Col
+  // Collision with obstacles
+  if (player.collids(spikes)) {
+    
+  }
 }
