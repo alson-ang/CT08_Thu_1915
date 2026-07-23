@@ -118,8 +118,8 @@ function draw() {
   // Loop through ground tiles
   for (let tile of ground) {
     if (player.collides(tile)) {
-      let leftEdge = tile.x - tile.w / 2;
-      let leftEdgeHeight = tile.y - tile.h / 2;
+      let leftEdge = tile.x - tile.w / 2; // Calculate left edge
+      let leftEdgeHeight = tile.y - tile.h / 2; // Calculate top edge
       
       // If player collides with left edge of ground tile
       if (player.x < leftEdge && player.y > leftEdgeHeight) {
