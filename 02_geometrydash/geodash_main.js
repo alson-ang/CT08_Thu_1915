@@ -115,5 +115,6 @@ function draw() {
     // Reset player position
     player.x = startCoordinate[0];
     player.y = startCoordinate[1];
+    
   }
 }
