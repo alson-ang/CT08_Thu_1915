@@ -112,7 +112,7 @@ function draw() {
 
   // Collision with obstacles
   if (player.collides(spikes)) {
-    
+    resetGame();
   }
 }
 
