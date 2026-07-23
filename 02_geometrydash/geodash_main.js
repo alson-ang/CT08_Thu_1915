@@ -73,7 +73,7 @@ function setup() {
   finishLine.tile = "f";
   finishLine.w = TILE_SIZE;
   finishLine.h = height;
-  finishLine.colo
+  finishLine.color = "orange"
 
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
