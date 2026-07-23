@@ -115,6 +115,7 @@ function draw() {
     resetGame();
   }
 
+  // Loop through ground tiles
   for (let tile of ground) {
     if (player.collides(tile)) {
       
