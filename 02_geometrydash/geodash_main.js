@@ -75,7 +75,7 @@ function setup() {
   finishLine.h = height * 2;
   finishLine.collider = "static";
   finishLine.color = "orange";
-  finishLine.visible = 
+  // finishLine.visible = false;
 
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
