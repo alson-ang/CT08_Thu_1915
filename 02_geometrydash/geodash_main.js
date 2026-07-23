@@ -65,7 +65,7 @@ function setup() {
   orbs.tile = "o";
   orbs.w = TILE_SIZE;
   orbs.h = TILE_SIZE;
-  spikes.collider = "static";
+  orbs.collider = "static";
 
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
