@@ -60,6 +60,8 @@ function setup() {
   spikes.img = spike;
   spikes.collider = "static";
 
+  // Orbs
+
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
 
