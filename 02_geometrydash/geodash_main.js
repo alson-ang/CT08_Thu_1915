@@ -41,7 +41,7 @@ function setup() {
   player.img = cube; // Load sprite image
   player.friction = 0;
   player.bounciness = 0;
-  player.collider = "dynamic";  // 
+  player.collider = "dynamic";  // Movable and affected by physics
 
   // Ground sprites group
   ground = new Group();
