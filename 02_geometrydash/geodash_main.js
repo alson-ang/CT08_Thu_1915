@@ -65,7 +65,7 @@ function setup() {
   orbs.tile = "o";
   orbs.d = 24;  // Diameter
   orbs.collider = "static";
-  orbs.color = "#dec558";
+  orbs.color = "#fff53b";
   orbs.strokeWeight = 0;  // Outline thickness
 
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
