@@ -88,7 +88,7 @@ function draw() {
 
   // Camera movement
   if (player.x >= width / 2) {
-    // Follow player when
+    // Follow player when it reaches the middle of screen
     camera.x = player.x;
   } else {
     camera.x = width / 2
