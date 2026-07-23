@@ -116,7 +116,7 @@ function draw() {
   }
 
   for (let tile of ground) {
-    
+    if (player.collides(tile))
   }
 }
 
