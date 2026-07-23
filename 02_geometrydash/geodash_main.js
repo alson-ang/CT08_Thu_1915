@@ -104,4 +104,8 @@ function draw() {
     // Increment jump count
     playerJump++;
   }
+
+  if (player.collides(ground)) {
+    
+  }
 }
