@@ -63,7 +63,7 @@ function setup() {
   // Orbs sprites group
   orbs = new Group();
   orbs.tile = "o";
-  orbs.d = 
+  orbs.d = 24;  // Diameter
   orbs.collider = "static";
   orbs.color = "white";
 
