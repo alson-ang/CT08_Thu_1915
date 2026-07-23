@@ -57,6 +57,7 @@ function setup() {
   spikes.tile = "s";
   spikes.w = TILE_SIZE;
   spikes.h = TILE_SIZE;
+  
 
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
