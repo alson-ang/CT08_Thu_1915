@@ -48,6 +48,7 @@ function setup() {
   ground.tile = "g";    // "g" represents ground in tile map
   ground.w = TILE_SIZE; // Width
   ground.h = TILE_SIZE; // Height
+  ground.color = "blacl";
 }
 
 function draw() {
