@@ -86,6 +86,7 @@ function draw() {
 
   player.vel.x = 8; // Positive x = moving right
 
+  // Jump input
   if (kb.presses("space") || mouse.presses("left")) {
     player.vel.y = -8;  // Negative y = moving up
   }
