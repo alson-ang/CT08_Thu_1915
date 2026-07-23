@@ -117,6 +117,7 @@ function draw() {
     player.y = startCoordinate[1];
 
     // Reset player rotation
+    player.rotation = 0;
 
     // Reset player jump
   }
