@@ -69,7 +69,8 @@ function setup() {
   orbs.strokeWeight = 0;  // Outline thickness
 
   // Finish line group
-  
+  finishLine = new Group();
+  finishLine.tile = "f";
 
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
