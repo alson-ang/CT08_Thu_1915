@@ -52,7 +52,7 @@ function setup() {
   ground.stroke = "black";  // Outline colour
   ground.collider = "static"; // It will not move
 
-  new Tiles(tileMap1, 0, 0, 50, 50);  // Create tiles from tileMap1
+  new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
 
 function draw() {
