@@ -51,6 +51,8 @@ function setup() {
   ground.color = "black";
   ground.stroke = "black";  // Outline colour
   ground.collider = "static"; // It will not move
+
+  new Tiles = 
 }
 
 function draw() {
