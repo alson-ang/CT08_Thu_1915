@@ -112,7 +112,12 @@ function draw() {
 
   // Collision with obstacles
   if (player.collides(spikes)) {
-    // Reset player position
+    
+  }
+}
+
+function resetGame() {
+  // Reset player position
     player.x = startCoordinate[0];
     player.y = startCoordinate[1];
 
@@ -121,7 +126,4 @@ function draw() {
 
     // Reset player jump
     playerJump = 0;
-  }
 }
-
-function reset
