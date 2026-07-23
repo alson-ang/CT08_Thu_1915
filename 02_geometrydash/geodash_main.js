@@ -86,6 +86,6 @@ function draw() {
 
   player.vel.x = 8; // Positive x = moving right
 
-  if (kb.presses)
+  if (kb.presses("s"))
   player.vel.y = -8;  // Negative y = moving up
 }
