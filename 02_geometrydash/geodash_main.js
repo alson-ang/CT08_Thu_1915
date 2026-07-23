@@ -123,3 +123,5 @@ function draw() {
     playerJump = 0;
   }
 }
+
+function reset
