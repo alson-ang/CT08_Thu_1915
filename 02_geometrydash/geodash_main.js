@@ -114,6 +114,6 @@ function draw() {
   if (player.collides(spikes)) {
     // Reset player position
     player.x = startCoordinate[0];
-    player.y = 
+    player.y = startCoordinate[1];
   }
 }
