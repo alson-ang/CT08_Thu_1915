@@ -67,7 +67,6 @@ function setup() {
   orbs.collider = "static";
   orbs.color = "#fff53b";
   orbs.strokeWeight = 0;  // Outline thickness
-  orbs.collider = "static";
 
   // Finish line group
   finishLine = new Group();
