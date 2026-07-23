@@ -83,5 +83,5 @@ function draw() {
   clear();  // Erase the previous frame before drawing the next
   image(bg, 0, 0, 800, 600);    // (image, x, y, width, height)
 
-  player.vel.x = 8; // Positive x -> moving right
+  player.vel.x = 8; // Positive x = moving right
 }
