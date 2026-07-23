@@ -76,7 +76,8 @@ function setup() {
   finishLine.color = "orange";
   finishLine.visible = true;
 
-  new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
+  // Create tiles from tileMap1 using 
+  new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  
 }
 
 function draw() {
