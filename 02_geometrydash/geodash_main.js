@@ -101,6 +101,7 @@ function draw() {
     player.vel.y = -8;  // Negative y = moving up
     player.rotateTo(player.rotation + 359, 15); // (direction, speed)
 
+    // Increment jump count
     playerJump++;
   }
 }
