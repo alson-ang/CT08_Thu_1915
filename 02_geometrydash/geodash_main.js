@@ -7,7 +7,7 @@ let bg;     // Background image
 const TILE_SIZE = 50;
 let tileMap1;   // Tile map for level design
 let spike;  // Image for spike sprite
-let playerJump
+let playerJump = 0;
 
 // world building groups
 let ground;
