@@ -88,9 +88,10 @@ function draw() {
 
   // Camera movement
   if (player.x >= width / 2) {
+    // Follow player when
     camera.x = player.x;
   } else {
-    camera.x
+    camera.x = width / 2
   }
 
   // Jump input
