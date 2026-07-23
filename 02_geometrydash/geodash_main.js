@@ -105,6 +105,7 @@ function draw() {
     playerJump++;
   }
 
+  // Reset jump count when touching ground
   if (player.collides(ground)) {
     playerJump = 0;
   }
