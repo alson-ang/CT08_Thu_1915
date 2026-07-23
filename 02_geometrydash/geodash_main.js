@@ -139,4 +139,7 @@ function resetGame() {
 
     // Reset player jump
     playerJump = 0;
+
+    // Reset camera
+    camera.x = width / 2;
 }
