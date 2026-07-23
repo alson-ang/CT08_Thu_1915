@@ -49,6 +49,7 @@ function setup() {
   ground.w = TILE_SIZE; // Width
   ground.h = TILE_SIZE; // Height
   ground.color = "black";
+  ground.stroke = 
   ground.collider = "static"; // It will not move
 }
 
