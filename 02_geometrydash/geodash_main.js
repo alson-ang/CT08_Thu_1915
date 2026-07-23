@@ -114,6 +114,10 @@ function draw() {
   if (player.collides(spikes)) {
     resetGame();
   }
+
+  for (let tile of ground) {
+    
+  }
 }
 
 function resetGame() {
