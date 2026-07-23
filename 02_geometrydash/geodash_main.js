@@ -53,7 +53,7 @@ function setup() {
   ground.collider = "static"; // It will not move
 
   // Spikes sprites group
-  
+  spikes = new Group
 
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
