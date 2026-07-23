@@ -109,4 +109,6 @@ function draw() {
   if (player.collides(ground)) {
     playerJump = 0;
   }
+
+  // Col
 }
