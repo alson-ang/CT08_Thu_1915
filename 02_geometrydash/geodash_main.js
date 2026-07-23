@@ -87,6 +87,7 @@ function draw() {
   player.vel.x = 8; // Positive x = moving right
 
   // Camera movement
+  if ()
   camera.x = player.x;
 
   // Jump input
