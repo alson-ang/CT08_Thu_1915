@@ -122,7 +122,7 @@ function draw() {
       let leftEdgeHeight = tile.y - tile.h / 2;
       
       if (player.x < leftEdge && player.y > leftEdgeHeight) {
-        
+        resetGame();
       }
     }
   }
