@@ -100,5 +100,7 @@ function draw() {
   if ((kb.presses("space") || mouse.presses("left")) && playerJump == 0) {
     player.vel.y = -8;  // Negative y = moving up
     player.rotateTo(player.rotation + 359, 15); // (direction, speed)
+
+    playerJump
   }
 }
