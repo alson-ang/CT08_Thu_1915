@@ -49,7 +49,7 @@ function setup() {
   ground.w = TILE_SIZE; // Width
   ground.h = TILE_SIZE; // Height
   ground.color = "black";
-  
+  ground.collider = "static";
 }
 
 function draw() {
