@@ -77,7 +77,7 @@ function setup() {
   finishLine.visible = true;
 
   // Create tiles from tileMap1 using tile groups
-  new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // (map, )
+  new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // (map, x, y, width, height)
 }
 
 function draw() {
