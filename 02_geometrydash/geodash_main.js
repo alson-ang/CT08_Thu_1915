@@ -62,6 +62,8 @@ function setup() {
 
   // Orbs sprites group
   orbs = new Group();
+  orbs.tile = "o";
+  
 
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
