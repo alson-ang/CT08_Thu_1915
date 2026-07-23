@@ -120,5 +120,6 @@ function draw() {
     player.rotation = 0;
 
     // Reset player jump
+    playerJump = 0;
   }
 }
