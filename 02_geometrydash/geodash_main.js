@@ -118,7 +118,7 @@ function draw() {
   // Loop through ground tiles
   for (let tile of ground) {
     if (player.collides(tile)) {
-      let leftEdge = tile.x - tile.w / 2
+      let leftEdge = tile.x - tile.w / 2;
     }
   }
 }
