@@ -87,8 +87,10 @@ function draw() {
   player.vel.x = 8; // Positive x = moving right
 
   // Camera movement
-  if (player.x >= width / 2)
-  camera.x = player.x;
+  if (player.x >= width / 2) {
+    camera.x = player.x;
+  }
+  
 
   // Jump input
   if (kb.presses("space") || mouse.presses("left")) {
