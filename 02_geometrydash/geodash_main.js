@@ -11,7 +11,7 @@ let spike;  // Image for spike sprite
 // world building groups
 let ground;
 let spikes;
-let orb;
+let orbs;
 let finishLine;
 
 // image sprites
@@ -60,7 +60,8 @@ function setup() {
   spikes.img = spike;
   spikes.collider = "static";
 
-  // Orbs sp
+  // Orbs sprites group
+  orbs = new Group();
 
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
