@@ -119,7 +119,7 @@ function draw() {
   for (let tile of ground) {
     if (player.collides(tile)) {
       let leftEdge = tile.x - tile.w / 2;
-      let leftEdgeHeight
+      let leftEdgeHeight = tile.y 
     }
   }
 }
