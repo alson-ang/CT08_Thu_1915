@@ -68,6 +68,9 @@ function setup() {
   orbs.color = "#fff53b";
   orbs.strokeWeight = 0;  // Outline thickness
 
+  // Finish line group
+  
+
   new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);  // Create tiles from tileMap1
 }
 
