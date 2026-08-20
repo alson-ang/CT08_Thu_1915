@@ -1,4 +1,4 @@
-let handPose;   // Model
+let handPose;   // ML Model
 let video;
 let videoW = 640;
 let videoH = 480;
