@@ -1,5 +1,5 @@
 let handPose;   // ML Model
-let video;
+let video;      // Webcam video
 let videoW = 640;
 let videoH = 480;
 let hands = []; // global variable to store hands
