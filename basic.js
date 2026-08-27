@@ -1,5 +1,5 @@
 function setup() {
-    new Canvas(800, 400);   // Background size
+    createCanvas(800, 400);   // Background size
     background("yellow");    // Background colour
 
     fill("black");    // Text colour
