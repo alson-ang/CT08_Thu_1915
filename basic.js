@@ -28,23 +28,23 @@ function setup() {
     //     count++;
     // }
 
-    let groceries = ["apple", "bread", "milk"];
+    // let groceries = ["apple", "bread", "milk"];
 
-    groceries.push("orange");
-    groceries.push("butter");
+    // groceries.push("orange");
+    // groceries.push("butter");
 
-    groceries.shift();
+    // groceries.shift();
 
-    groceries.splice(1, 1, "kaya");
+    // groceries.splice(1, 1, "kaya");
 
-    console.log(groceries);
+    // console.log(groceries);
 
-    let yPos = 100;
-    for (let item of groceries) {
-        console.log(item);
-        text(item, 400, yPos);
-        yPos += 20;
-    }
+    // let yPos = 100;
+    // for (let item of groceries) {
+    //     console.log(item);
+    //     text(item, 400, yPos);
+    //     yPos += 20;
+    // }
 }
 
 function draw() {
