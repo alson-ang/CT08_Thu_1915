@@ -5,15 +5,15 @@ function setup() {
     fill("black");    // Text colour
     textSize(24);   // Text size
 
-    let age = 13;
+    // let age = 13;
 
-    if (age <= 9) {
-        console.log("Lower Primary"); // print
-    } else if (age <= 12) {
-        console.log("Upper Primary");
-    } else {
-        console.log("Secondary");
-    }
+    // if (age <= 9) {
+    //     console.log("Lower Primary"); // print
+    // } else if (age <= 12) {
+    //     console.log("Upper Primary");
+    // } else {
+    //     console.log("Secondary");
+    // }
 
     // for (let i = 2; i <= 20; i += 2) {
     //     console.log(i);
@@ -21,12 +21,12 @@ function setup() {
     //     text(i, 100, yPos);
     // }
 
-    let count = 0;
+    // let count = 0;
 
-    while (count < 10) {
-        console.log(count); 
-        count++;    // count += 1 or count = count + 1
-    }
+    // while (count < 10) {
+    //     console.log(count); 
+    //     count++;    // count += 1 or count = count + 1
+    // }
 
     // let groceries = ["apple", "bread", "milk"];
 
