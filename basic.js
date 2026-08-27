@@ -50,5 +50,8 @@ function setup() {
 }
 
 function draw() {
-
+    console.log(width);
+    console.log(width);
+    console.log(width);
+    console.log(width);
 }
