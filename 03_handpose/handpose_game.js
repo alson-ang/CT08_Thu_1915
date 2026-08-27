@@ -12,7 +12,7 @@ function preload() {
     modelType: "full",
     detectorModelUrl: undefined, //default to use the tf.hub model
     landmarkModelUrl: undefined, //default to use the tf.hub model
-  };
+  }
 
   // Load the handPose model
   handPose = ml5.handPose(options);
