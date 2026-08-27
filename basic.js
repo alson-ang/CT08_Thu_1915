@@ -25,7 +25,7 @@ function setup() {
 
     while (count < 10) {
         console.log(count);
-        count++;
+        count++;    // count += 1
     }
 
     // let groceries = ["apple", "bread", "milk"];
