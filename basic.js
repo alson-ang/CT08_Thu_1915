@@ -33,7 +33,7 @@ function setup() {
     groceries.push("orange");   // Append
     groceries.push("butter");
 
-    groceries.shift();
+    // groceries.shift();
 
     groceries.splice(1, 1, "kaya");
 
