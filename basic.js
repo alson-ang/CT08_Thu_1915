@@ -51,7 +51,7 @@ function setup() {
 
 function draw() {
     console.log(width);
-    console.log(width);
-    console.log(width);
-    console.log(width);
+    console.log(height);
+    console.log(mouseX);
+    console.log(mouseY);
 }
