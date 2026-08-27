@@ -1,6 +1,6 @@
 function setup() {
     createCanvas(800, 400);   // Background size
-    background(3, 252, 161);    // Background colour
+    background("#1ea775");    // Background colour
 
     fill("black");    // Text colour
     textSize(24);   // Text size
