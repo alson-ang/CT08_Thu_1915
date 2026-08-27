@@ -45,7 +45,7 @@ function setup() {
   // Game sprite
   fingerTip = new Sprite();
   fingerTip.diameter = 60;
-  fingerTip.collider = ""
+  fingerTip.collider = "dynamic"
 }
 
 function draw() {
