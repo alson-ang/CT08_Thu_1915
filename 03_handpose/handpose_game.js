@@ -34,7 +34,6 @@ function setup() {
   };
 
   // Create the webcam video and hide it
-  // video = createCapture(VIDEO);
   video = createCapture(constraints);
   video.size(640, 480);
   video.hide();
