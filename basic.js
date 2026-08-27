@@ -50,7 +50,7 @@ function setup() {
 }
 
 function draw() {
-    fill("red");
-    stroke("blue");
-    circle(width / 2, height / 2, 100);
+    // fill("red");
+    // stroke("blue");
+    // circle(width / 2, height / 2, 100);
 }
