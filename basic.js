@@ -13,13 +13,13 @@ function setup() {
 
     let age = 13;
 
-    // if (age <= 9) {
-    //     console.log("Lower Primary");
-    // } else if (age <= 12) {
-    //     console.log("Upper Primary");
-    // } else {
-    //     console.log("Secondary");
-    // }
+    if (age <= 9) {
+        console.log("Lower Primary");
+    } else if (age <= 12) {
+        console.log("Upper Primary");
+    } else {
+        console.log("Secondary");
+    }
 
     // let count = 0;
 
