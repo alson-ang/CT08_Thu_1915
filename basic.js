@@ -15,11 +15,11 @@ function setup() {
         console.log("Secondary");
     }
 
-    // for (let i = 2; i <= 20; i += 2) {
-    //     console.log(i);
-    //     yPos = 10 + (i * 10)
-    //     text(i, 100, yPos)
-    // }
+    for (let i = 2; i <= 20; i += 2) {      // for i in range
+        console.log(i);
+        yPos = 10 + (i * 10)
+        text(i, 100, yPos)
+    }
 
     // let count = 0;
 
