@@ -5,7 +5,7 @@ function setup() {
     fill("black");    // Text colour
     textSize(24);   // Text size
 
-    text("Hello", );    // (string, x, y)
+    text("Hello", 50, 50);    // (string, x, y)
 
     // let age = 13;
 
