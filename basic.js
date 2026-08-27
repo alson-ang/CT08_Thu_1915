@@ -15,7 +15,7 @@ function setup() {
         console.log("Secondary");
     }
 
-    for (let i = 2; i <= 20; i += 2) {      // for i in range(10)
+    for (let i = 2; i <= 20; i += 2) {      // for (variable, )
         console.log(i);
         yPos = 10 + (i * 10)
         text(i, 100, yPos)
