@@ -50,5 +50,6 @@ function setup() {
 }
 
 function draw() {
+    fill("red")
     circle(width / 2, height / 2, 100);
 }
