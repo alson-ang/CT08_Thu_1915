@@ -55,6 +55,12 @@ function draw() {
 
     // for every keypoint, draw a circle.
     circle(keypoint.x, keypoint.y, 10);
+
+    // Keypoint 8 = INDEX_FINGER_TIP
+    keypoint = hand.keypoints[12];
+
+    // for every keypoint, draw a circle.
+    circle(keypoint.x, keypoint.y, 10);
   }
 }
 
