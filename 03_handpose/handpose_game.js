@@ -56,6 +56,8 @@ function draw() {
     // for every keypoint, draw a circle.
     circle(keypoint.x, keypoint.y, 10);
 
+    keypoint = hand.keypoints[4];
+    circle(keypoint.x, keypoint.y, 10);
     keypoint = hand.keypoints[12];
     circle(keypoint.x, keypoint.y, 10);
     keypoint = hand.keypoints[16];
