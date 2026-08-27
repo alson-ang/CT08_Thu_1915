@@ -4,12 +4,6 @@ function setup() {
 
     fill("black");    // Text colour
     textSize(24);   // Text size
-    
-    // for (let i = 2; i <= 20; i += 2) {
-    //     console.log(i);
-    //     yPos = 10 + (i * 10)
-    //     text(i, 100, yPos)
-    // }
 
     let age = 13;
 
@@ -20,6 +14,12 @@ function setup() {
     } else {
         console.log("Secondary");
     }
+
+    // for (let i = 2; i <= 20; i += 2) {
+    //     console.log(i);
+    //     yPos = 10 + (i * 10)
+    //     text(i, 100, yPos)
+    // }
 
     // let count = 0;
 
