@@ -15,7 +15,7 @@ function setup() {
         console.log("Secondary");
     }
 
-    for (let i = 2; i <= 20; i += 2) {      // for (let i = 0; i < 10; step)
+    for (let i = 2; i <= 20; i += 2) {      // for (let i = 0; i < 10; i += 1)
         console.log(i);
         yPos = 10 + (i * 10)
         text(i, 100, yPos)
