@@ -51,7 +51,7 @@ function draw() {
     let hand = hands[i]; // current hand (left or right)
 
     // Keypoint 8 = INDEX_FINGER_TIP
-    let keypoint = hand.keypoints[20];
+    let keypoint = hand.keypoints[8];
 
     // for every keypoint, draw a circle.
     circle(keypoint.x, keypoint.y, 10);
