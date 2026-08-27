@@ -41,6 +41,9 @@ function setup() {
   video.hide();
   // start detecting hands from the webcam video + model
   handPose.detectStart(video, gotHands);
+
+  // Game sprite
+  
 }
 
 function draw() {
