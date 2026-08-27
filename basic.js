@@ -51,6 +51,6 @@ function setup() {
 
 function draw() {
     fill("red");
-    stroke
+    strokeFill("Blue")
     circle(width / 2, height / 2, 100);
 }
