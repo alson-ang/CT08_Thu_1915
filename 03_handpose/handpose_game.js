@@ -4,7 +4,9 @@ let videoW = 640;
 let videoH = 480;
 let hands = []; // global variable to store hands
 
+// Game sprites
 let fingerTip;
+let balloon;
 
 function preload() {
   // Create options for model settings
