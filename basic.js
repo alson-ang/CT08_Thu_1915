@@ -5,6 +5,8 @@ function setup() {
     fill("black");    // Text colour
     textSize(24);   // Text size
 
+    text()
+
     // let age = 13;
 
     // if (age <= 9) {
