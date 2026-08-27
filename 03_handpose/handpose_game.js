@@ -20,7 +20,7 @@ function preload() {
 
 function setup() {
   createCanvas(videoW, videoH);
-  
+
   let constraints = {
     video: {
       mandatory: {
@@ -30,7 +30,7 @@ function setup() {
       optional: [{ minFrameRate: 60 }],
     },
     audio: false,
-    flipped: true, // makes the video mirrored
+    flipped: true // makes the video mirrored
   };
 
   // Create the webcam video and hide it
