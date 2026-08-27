@@ -24,7 +24,7 @@ function setup() {
     let count = 0;
 
     while (count < 10) {
-        console.log(count);
+        console.log(count); 
         count++;    // count += 1 or count = count + 1
     }
 
