@@ -28,7 +28,7 @@ function setup() {
     //     count++;    // count += 1 or count = count + 1
     // }
 
-    let groceries = [4, 5, 6];
+    let groceries = ["apple", "bread", "milk"];
 
     groceries.push("orange");
     groceries.push("butter");
