@@ -63,7 +63,7 @@ function draw() {
 
     // for every keypoint, draw a circle.
     fingerTip.x = keypoint.x;
-    fingerT
+    fingerTip.y = keypoint.y;
   }
 }
 
