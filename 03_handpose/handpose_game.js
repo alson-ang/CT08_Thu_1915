@@ -11,7 +11,7 @@ function preload() {
     runtime: "tfjs",
     modelType: "full",
     detectorModelUrl: undefined, //default to use the tf.hub model
-    landmarkModelUrl: undefined, //default to use the tf.hub model
+    landmarkModelUrl: undefined //default to use the tf.hub model
   }
 
   // Load the handPose model
