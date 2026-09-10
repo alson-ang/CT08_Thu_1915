@@ -74,7 +74,7 @@ function draw() {
     // Keypoint 8 = INDEX_FINGER_TIP
     let keypoint = hand.keypoints[8];
 
-    // for every keypoint, draw a circle.
+    // draw sprite at finger tip
     fingerTip.x = keypoint.x;
     fingerTip.y = keypoint.y;
   }
