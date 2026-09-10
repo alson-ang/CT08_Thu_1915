@@ -69,6 +69,8 @@ function setup() {
   leftWall.width = 5;
   leftWall.height = height;
   leftWall.collider = "static";
+
+  
 }
 
 function draw() {
