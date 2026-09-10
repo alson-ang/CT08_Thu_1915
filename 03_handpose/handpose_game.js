@@ -106,6 +106,7 @@ function draw() {
     textSize(28);
     textAlign(CENTER, CENTER); // horizontal, vertical alignment
     fill("rgb(0, 255, 20)");
+    
   }
 
   // Draw all the tracked hand points
