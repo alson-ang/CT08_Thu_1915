@@ -74,7 +74,7 @@ function draw() {
     // Keypoint 8 = INDEX_FINGER_TIP
     let keypoint = hand.keypoints[8];
 
-    // make sprite follow finger tip
+    // make sprite follow finger tip position
     fingerTip.x = keypoint.x;
     fingerTip.y = keypoint.y;
   }
