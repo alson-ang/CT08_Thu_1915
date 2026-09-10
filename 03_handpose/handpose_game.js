@@ -135,5 +135,8 @@ function gotHands(results) {
 }
 
 function keyPressed() {
-  if (key === " ")
+  // Start game key
+  if (key === " ") {
+    
+  }
 }
