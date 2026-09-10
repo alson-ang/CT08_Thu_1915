@@ -67,6 +67,7 @@ function setup() {
   leftWall.x = 0;
   leftWall.y = height / 2;
   leftWall.width = 5;
+  leftWall.height = height;
 }
 
 function draw() {
