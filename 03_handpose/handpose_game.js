@@ -59,7 +59,7 @@ function setup() {
   balloon.color = "rgba(255, 225, 0, 0.9)";
   balloon.bounciness = 0.5;
   balloon.mass = 5;
-  balloon.
+  balloon.drag = 0;
 }
 
 function draw() {
