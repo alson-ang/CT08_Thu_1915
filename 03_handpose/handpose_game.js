@@ -58,6 +58,8 @@ function setup() {
   balloon.collider = "dynamic"; // Physics and collidable
   balloon.color = "rgba(255, 225, 0, 0.9)";
   balloon.bounciness = 0.5;
+  balloon.mass = 5;
+  balloon.
 }
 
 function draw() {
