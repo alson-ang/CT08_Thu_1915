@@ -77,14 +77,14 @@ function setup() {
   rightWall.height = height;
   rightWall.collider = "static";
 
-  leftWall = new Sprite();
-  leftWall.x = 0;
-  leftWall.y = height / 2;
-  leftWall.width = 5;
-  leftWall.height = height;
-  leftWall.collider = "static";
+  topWall = new Sprite();
+  topWall.x = 0;
+  topWall.y = height / 2;
+  topWall.width = 5;
+  topWall.height = height;
+  topWall.collider = "static";
 
-  leftWall = new Sprite();
+  botWall = new Sprite();
   leftWall.x = 0;
   leftWall.y = height / 2;
   leftWall.width = 5;
