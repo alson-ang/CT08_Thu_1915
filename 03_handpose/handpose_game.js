@@ -104,7 +104,7 @@ function draw() {
   // Start menu
   if (gameStarted === false) {
     textSize(28);
-    textAlign()
+    textAlign(CENTER, CENTER)
   }
 
   // Draw all the tracked hand points
