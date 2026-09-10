@@ -54,7 +54,7 @@ function setup() {
   balloon.x = width / 2;
   balloon.y = height / 2;
   balloon.diameter = 80;
-  balloon.collider = "dynamic";
+  balloon.collider = "dynamic"; // Physics and collidable
   balloon.color = "rgba(255, 225, 0, 0.9)";
 }
 
