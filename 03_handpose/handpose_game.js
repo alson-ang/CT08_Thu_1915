@@ -114,7 +114,9 @@ function draw() {
     fingerTip.y = keypoint.y;
   }
 
-  
+  if (gameStarted === false) {
+    
+  }
 }
 
 // Callback function for when handPose outputs data
