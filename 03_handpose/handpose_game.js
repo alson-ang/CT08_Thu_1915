@@ -78,7 +78,7 @@ function setup() {
   rightWall.collider = "static";
 
   topWall = new Sprite();
-  topWall.x = 0;
+  topWall.x = width / 2;
   topWall.y = height / 2;
   topWall.width = 5;
   topWall.height = height;
