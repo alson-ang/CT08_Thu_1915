@@ -9,6 +9,9 @@ let fingerTip;
 let balloon;
 let leftWall, rightWall, topWall, botWall;
 
+// Game variables
+
+
 function preload() {
   // Create options for model settings
   let options = {
