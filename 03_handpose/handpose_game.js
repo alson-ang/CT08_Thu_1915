@@ -63,7 +63,7 @@ function setup() {
   balloon.drag = 0.2;
 
   // Boundary walls
-  
+  leftWall = new Sprite
 }
 
 function draw() {
