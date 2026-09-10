@@ -103,10 +103,10 @@ function draw() {
 
   // Start menu
   if (gameStart === false) {
-    textSize(32);
+    textSize(40);
     textAlign(CENTER, CENTER); // horizontal, vertical alignment
     fill("rgb(0, 255, 20)");
-    text("Bounce the Ball", width / 2, height * 0.1); // (text, x, y)
+    text("Bounce the Ball", width / 2, height * 0.15); // (text, x, y)
 
   }
 
