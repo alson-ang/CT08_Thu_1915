@@ -10,7 +10,8 @@ let balloon;
 let leftWall, rightWall, topWall, botWall;
 
 // Game variables
-
+let gameStart = false;
+let gameOver = false;
 
 function preload() {
   // Create options for model settings
