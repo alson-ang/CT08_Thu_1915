@@ -111,6 +111,8 @@ function draw() {
     textSize(28);
     text("Use Index Finger to bounce the Ball!", width / 2, height * 0.2);
     text("Press Space to start the game.", width / 2, height * 0.3);
+  } else {
+    
   }
 
   // Draw all the tracked hand points
