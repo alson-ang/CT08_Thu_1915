@@ -139,8 +139,8 @@ function keyPressed() {
   if (key === " ") {
     gameStart = true;
 
-    //balloon.bounciness = 0.8; // 1 = perfect elasticity
-  // balloon.mass = 5;
-  // balloon.drag = 0.2;
+    balloon.bounciness = 0.8; // 1 = perfect elasticity
+    balloon.mass = 5;
+    balloon.drag = 0.2;
   }
 }
