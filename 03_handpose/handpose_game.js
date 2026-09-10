@@ -55,7 +55,7 @@ function setup() {
   balloon.y = height / 2;
   balloon.diameter = 80;
   balloon.collider = "dynamic";
-  fingerTip.color = "rgba(255, 225, 0, 0.9)";
+  balloon.color = "rgba(255, 225, 0, 0.9)";
 }
 
 function draw() {
