@@ -108,7 +108,7 @@ function draw() {
     fill("rgb(0, 255, 20)");
     text("Bounce the Ball", width / 2, height * 0.1); // (text, x, y)
     textSize(32);
-    
+    text("Use")
   }
 
   // Draw all the tracked hand points
