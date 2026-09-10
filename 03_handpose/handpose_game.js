@@ -113,6 +113,8 @@ function draw() {
     fingerTip.x = keypoint.x;
     fingerTip.y = keypoint.y;
   }
+
+  
 }
 
 // Callback function for when handPose outputs data
