@@ -49,7 +49,7 @@ function setup() {
   fingerTip = new Sprite();
   fingerTip.diameter = 60;
   fingerTip.collider = "kinematic"; // No physics but collidable
-  fingerTip.color = "rgba(0, 255, 0, 0.05)";
+  fingerTip.color = "rgba(0, 255, 0, 0.05)"; // a = transparency
 
   balloon = new Sprite();
   balloon.x = width / 2;
