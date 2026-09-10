@@ -85,11 +85,11 @@ function setup() {
   topWall.collider = "static";
 
   botWall = new Sprite();
-  leftWall.x = 0;
-  leftWall.y = height / 2;
-  leftWall.width = 5;
-  leftWall.height = height;
-  leftWall.collider = "static";
+  botWall.x = 0;
+  botWall.y = height / 2;
+  botWall.width = 5;
+  botWall.height = height;
+  botWall.collider = "static";
 }
 
 function draw() {
