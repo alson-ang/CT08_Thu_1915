@@ -45,7 +45,7 @@ function setup() {
   // start detecting hands from the webcam video + model
   handPose.detectStart(video, gotHands);
 
-  // Game sprite
+  // Game sprites
   fingerTip = new Sprite();
   fingerTip.diameter = 60;
   fingerTip.collider = "kinematic"; // No physics but collidable
