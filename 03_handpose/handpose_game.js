@@ -125,7 +125,6 @@ function draw() {
       fingerTip.y = keypoint.y;
     }
   }
-
   
 }
 
