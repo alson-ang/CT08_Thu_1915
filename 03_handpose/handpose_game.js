@@ -61,6 +61,9 @@ function setup() {
   balloon.bounciness = 0.8; // 1 = perfect elasticity
   balloon.mass = 5;
   balloon.drag = 0.2;
+
+  // Boundary walls
+  
 }
 
 function draw() {
