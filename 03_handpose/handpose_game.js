@@ -53,9 +53,9 @@ function setup() {
   // Game sprites
   fingerTip = new Sprite();
   fingerTip.diameter = 60;
-  fingerTip.collider = "none"; // No physics but collidable
+  fingerTip.collider = "none"; // No physics but collidable - hide for now
   fingerTip.color = "rgba(0, 255, 0, 0.05)"; // a = transparency
-  fingerTip.visible = false;
+  fingerTip.visible = false; // Hide for now
 
   balloon = new Sprite();
   balloon.x = width / 2;
