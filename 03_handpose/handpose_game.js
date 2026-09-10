@@ -101,6 +101,10 @@ function draw() {
   // Draw the webcam video
   image(video, 0, 0, videoW, videoH);
 
+  if (gameStarted === false) {
+    
+  }
+
   // Draw all the tracked hand points
   // Loop through all the hands detected (can detect left or right)
   for (let i = 0; i < hands.length; i++) {
@@ -112,10 +116,6 @@ function draw() {
     // make sprite follow finger tip position
     fingerTip.x = keypoint.x;
     fingerTip.y = keypoint.y;
-  }
-
-  if (gameStarted === false) {
-    
   }
 }
 
