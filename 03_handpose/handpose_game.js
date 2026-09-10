@@ -70,12 +70,12 @@ function setup() {
   leftWall.height = height;
   leftWall.collider = "static";
   
-  leftWall = new Sprite();
-  leftWall.x = 0;
-  leftWall.y = height / 2;
-  leftWall.width = 5;
-  leftWall.height = height;
-  leftWall.collider = "static";
+  rightWall = new Sprite();
+  rightWall.x = 0;
+  rightWall.y = height / 2;
+  rightWall.width = 5;
+  rightWall.height = height;
+  rightWall.collider = "static";
 
   leftWall = new Sprite();
   leftWall.x = 0;
