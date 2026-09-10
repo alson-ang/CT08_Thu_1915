@@ -107,8 +107,8 @@ function draw() {
     textAlign(CENTER, CENTER); // horizontal, vertical alignment
     fill("rgb(0, 255, 20)");
     text("Bounce the Ball", width / 2, height * 0.1); // (text, x, y)
-    text 
-
+    textSize(32);
+    
   }
 
   // Draw all the tracked hand points
