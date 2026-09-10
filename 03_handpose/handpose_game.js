@@ -49,6 +49,9 @@ function setup() {
   fingerTip.diameter = 60;
   fingerTip.collider = "kinematic"
   fingerTip.color = "rgba(0, 255, 0, 0.05)";
+
+  balloon = new Sprite();
+  
 }
 
 function draw() {
