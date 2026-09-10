@@ -85,7 +85,7 @@ function setup() {
   topWall.collider = "static";
 
   botWall = new Sprite();
-  botWall.x = 0;
+  botWall.x = width / 2;
   botWall.y = height / 2;
   botWall.width = 5;
   botWall.height = height;
