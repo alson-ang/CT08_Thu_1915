@@ -139,7 +139,7 @@ function keyPressed() {
   if (key === " ") {
     gameStart = true;
 
-    balloon.collider =
+    balloon.collider = "dynamic";
     balloon.bounciness = 0.8; // 1 = perfect elasticity
     balloon.mass = 5;
     balloon.drag = 0.2;
