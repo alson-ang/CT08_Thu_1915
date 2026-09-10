@@ -69,7 +69,7 @@ function setup() {
   leftWall.width = 5;
   leftWall.height = height;
   leftWall.collider = "static";
-  leftWall.visible = false;
+  //leftWall.visible = false;
   
   rightWall = new Sprite();
   rightWall.x = width;
