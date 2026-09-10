@@ -101,6 +101,7 @@ function draw() {
   // Draw the webcam video
   image(video, 0, 0, videoW, videoH);
 
+  // Start menu
   if (gameStarted === false) {
     
   }
