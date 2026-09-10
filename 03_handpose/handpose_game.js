@@ -58,7 +58,7 @@ function setup() {
 
   balloon = new Sprite();
   balloon.x = width / 2;
-  balloon.y = height * 0.1; // Top 10% of canvas
+  balloon.y = height * 0.4; // Top 10% of canvas
   balloon.diameter = 80;
   balloon.collider = "none"; // Not in use yet
   balloon.color = "rgba(255, 225, 0, 0.9)";
