@@ -107,6 +107,7 @@ function draw() {
     textAlign(CENTER, CENTER); // horizontal, vertical alignment
     fill("rgb(0, 255, 20)");
     text("Bounce the Ball", width / 2, height * 0.1); // (text, x, y)
+    fill("rgb(0, 255, 50)");
     textSize(32);
     text("Use Index Finger to bounce the Ball!", width / 2, height * 0.2);
   }
