@@ -105,7 +105,7 @@ function draw() {
   if (gameStarted === false) {
     textSize(28);
     textAlign(CENTER, CENTER); // horizontal, vertical alignment
-    fill("rgba(255, 225, 0, 0.9)");
+    fill("rgb(0, 255, 17)");
   }
 
   // Draw all the tracked hand points
