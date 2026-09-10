@@ -102,7 +102,7 @@ function draw() {
   image(video, 0, 0, videoW, videoH);
 
   // Start menu
-  if (gameStarted === false) {
+  if (gameStart === false) {
     textSize(28);
     textAlign(CENTER, CENTER); // horizontal, vertical alignment
     fill("rgb(0, 255, 20)");
